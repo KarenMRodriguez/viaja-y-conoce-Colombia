@@ -1,0 +1,19 @@
+* {
+    margin: 5px;
+    padding: 10px;
+    box-sizing: border-box;  
+}
+.header-principal img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.contenedor-datos{
+    font-size: 50px;
+    padding-top: 50px;
+    justify-content: space-between;
+}
+
